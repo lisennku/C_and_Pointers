@@ -28,6 +28,7 @@ int main() {
         get_shrinked_output(output, input, col_numbers, columns);
         printf("Shrinked output is %s \n", output);
     }
+
 }
 
 
